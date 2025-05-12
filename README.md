@@ -1,2 +1,2 @@
-# StudentbudgetCalculator..
-The applicatin help studets to monitor their monthly expense and where they spend their money the most.
+# StudentbudgetApplication
+The application helps students with their budget, tracking their allowances, and expenses.
